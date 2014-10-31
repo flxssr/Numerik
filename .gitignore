@@ -228,3 +228,6 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+Numerik-Simulation-Flamme/Numerik-Simulation-Flamme.sln
+Numerik-Simulation-Flamme/Numerik-Simulation-Flamme.vcxproj
+Numerik-Simulation-Flamme/Numerik-Simulation-Flamme.vcxproj.filters
